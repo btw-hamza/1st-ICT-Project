@@ -17,10 +17,15 @@ Budget Manager is a static web-based budgeting tool that allows users to manage 
 Main Functions
 
 • Track daily and monthly expenses using a JavaScript-powered Expense Tracker
+
 • Provide budgeting and saving tips to help improve financial management
+
 • Offer a Contact Page with a functional form
+
 • Contain business-style layout and navigation
+
 • Display a clean and user-friendly interface
+
 
 Pages Included
 
