@@ -30,31 +30,45 @@ Main Functions
 Pages Included
 
 • Home (index.html) – Contains introduction and business overview
+
 • Expense Tracker (expense.html) – Allows users to calculate and track expenses
+
 • Financial Tips (tips.html) – Provides useful budgeting and money-saving advice
+
 • Contact Page (contact.html) – Includes a simple contact form for user inquiries
 
 Features
 
 • Simple and clean UI
+
 • JavaScript-based expense tracking
+
 • Organized folder structure
+
 • Financial advice section
+
 • Easy navigation across all pages
 
 Technologies Used
 
 • HTML5
+
 • CSS3
+
 • JavaScript (ES6)
 
 Project Structure
 
 index.html
+
 expense.html
+
 tips.html
+
 contact.html
+
 CSS/style.css
+
 JS/script.js
 
 Live Website
