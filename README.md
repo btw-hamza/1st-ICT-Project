@@ -59,17 +59,17 @@ Technologies Used
 
 Project Structure
 
-index.html
+• index.html
 
-expense.html
+• expense.html
 
-tips.html
+• tips.html
 
-contact.html
+• contact.html
 
-CSS/style.css
+• CSS/style.css
 
-JS/script.js
+• JS/script.js
 
 Live Website
 
