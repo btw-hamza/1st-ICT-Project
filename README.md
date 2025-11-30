@@ -1,50 +1,48 @@
 Budget Manager – Financial Management Website
 
-This project is a simple multi-page business website developed using HTML, CSS, and JavaScript as part of the ICT Project at FAST-NUCES (Faisalabad-Chiniot Campus).
+This project is a multi-page business website developed using HTML, CSS, and JavaScript as part of the ICT Project at FAST-NUCES (Faisalabad-Chiniot Campus). The website is designed to help users manage their personal finances through expense tracking, budgeting tips, and a simple contact system.
 
-It provides users with budgeting tools, financial tips, and a contact system to help them manage their daily expenses effectively.
+Group Members
 
-Group Members:
-- Muhammad Hamza Nasir — 25F-0702
-- Ahmad Waqas — 25F-0765
-- Hamza Hassan — 25F-0682
+Muhammad Hamza Nasir — 25F-0702
+Ahmad Waqas — 25F-0765
+Hamza Hassan — 25F-0682
 
-Project Description:
-Budget Manager is a static website designed to assist users in managing personal finances.
-It allows users to track expenses, learn budgeting tips, and contact the service provider for assistance.
+Project Description
 
-Main functions include:
-- Tracking daily and monthly expenses
-- Providing helpful budgeting and saving tips
-- Offering a contact form for user messages
+Budget Manager is a static web-based budgeting tool that allows users to manage their daily and monthly expenses. The website provides essential financial tips and includes a contact section where users can reach out for assistance. This project fulfills the requirements of the ICT course by demonstrating the use of HTML5, CSS3, and JavaScript to build a functional business website.
 
-Pages Included:
-Home (index.html)
-Contains the introduction and About Us content.
+Main Functions
 
-Expense Tracker (expense.html)
-A JavaScript-powered tool that allows users to calculate and track expenses.
+• Track daily and monthly expenses using a JavaScript-powered Expense Tracker
+• Provide budgeting and saving tips to help improve financial management
+• Offer a Contact Page with a functional form
+• Contain business-style layout and navigation
+• Display a clean and user-friendly interface
 
-Financial Tips (tips.html)
-Provides useful budgeting and money-saving advice.
+Pages Included
 
-Contact Page (contact.html)
-Contains a functional contact form for user inquiries.
+• Home (index.html) – Contains introduction and business overview
+• Expense Tracker (expense.html) – Allows users to calculate and track expenses
+• Financial Tips (tips.html) – Provides useful budgeting and money-saving advice
+• Contact Page (contact.html) – Includes a simple contact form for user inquiries
 
-Features:
-- Simple and clean layout
-- JavaScript-based expense tracking
-- Easy navigation
-- Financial advice section
-- Organized folder structure
+Features
 
-Technologies Used:
-- HTML5
-- CSS3
-- JavaScript (ES6)
+• Simple and clean UI
+• JavaScript-based expense tracking
+• Organized folder structure
+• Financial advice section
+• Easy navigation across all pages
 
-Project Structure:
-Project/
+Technologies Used
+
+• HTML5
+• CSS3
+• JavaScript (ES6)
+
+Project Structure
+
 index.html
 expense.html
 tips.html
@@ -52,12 +50,19 @@ contact.html
 CSS/style.css
 JS/script.js
 
-How to Run:
-1. Download or clone the project.
-2. Extract all files.
-3. Open index.html in any web browser.
+Live Website
 
-Contact:
-For any support, please use the contact form available on the website.
+Yes, you can add the working link on GitHub.
+Live Website Link: https://btw-hamza.github.io/1st-ICT-Project/
 
+How to Run
 
+Download or clone the project
+
+Extract all files
+
+Open index.html in any browser
+
+Contact
+
+For any support or questions, please use the contact form available on the website.
