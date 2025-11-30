@@ -52,7 +52,6 @@ JS/script.js
 
 Live Website
 
-Yes, you can add the working link on GitHub.
 Live Website Link: https://btw-hamza.github.io/1st-ICT-Project/
 
 How to Run
