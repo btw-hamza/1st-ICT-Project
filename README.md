@@ -49,8 +49,8 @@ index.html
 expense.html
 tips.html
 contact.html
-css/style.css
-js/script.js
+CSS/style.css
+JS/script.js
 
 How to Run:
 1. Download or clone the project.
