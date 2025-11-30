@@ -51,7 +51,6 @@ tips.html
 contact.html
 css/style.css
 js/script.js
-images/
 
 How to Run:
 1. Download or clone the project.
